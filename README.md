@@ -230,6 +230,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/)
 * [Learn to Program iOS and OS X with Apple Swift](https://www.kickstarter.com/projects/alanforbes/learn-to-program-ios-and-os-x-with-apple-swift?utm_medium=referral&utm_source=swift.zeef.com%2Frobin.eggenkamp&utm_campaign=ZEEF)
+* [The iOS Apprentice](https://www.raywenderlich.com/store/ios-apprentice) - Beginning iOS Development with Swift 3 by the Ray Wenderlich team
 
 ## Swift Videos
 
